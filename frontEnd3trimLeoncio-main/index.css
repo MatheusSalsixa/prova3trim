@@ -1,0 +1,39 @@
+body{
+    margin: 0%;
+    background-color: #a1c5e9; 
+}
+header{
+    background-color: rgb(15, 28, 54);
+    padding: 2em;
+    border-radius: 0%;
+    border-color: #a1c5e9;
+    margin-bottom: 0%;
+
+} 
+main{
+    background-color: #a1c5e9;
+    width: 100%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 0%;
+    padding: 10px;
+    height: fit-content;
+}
+p{
+    size: 20px;
+    
+    
+}
+button{
+    width: 10%;
+    padding: 1%;
+    font-size: 100%;
+    border-radius: 5%;
+    color: #509be5;
+    border-style: unset;
+    
+}
+h1{
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    color: #a1c5e9;
+}
